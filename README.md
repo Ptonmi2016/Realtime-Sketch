@@ -1,4 +1,4 @@
-# Websocket
+# Realtime-Sketch
 Practice Express and Socket.io with P5.js
 
-Localhost a P5js Sketch
+Localhost and realtime P5js Sketch
